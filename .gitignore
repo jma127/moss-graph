@@ -6,6 +6,10 @@
 *.exe
 *.class
 
+# Program Output #
+##################
+*.csv
+
 # Folders #
 ###########
 bin/
